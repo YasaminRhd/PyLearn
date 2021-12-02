@@ -44,7 +44,7 @@ else:
         if a == "yes":
             result = math.cot(math.degrees(num))
         else:
-            result = math.scot(num)
+            result = math.cot(num)
         
     if op == "cos":
         a = input("did you enter the data in radian? (type yes or no) " )
