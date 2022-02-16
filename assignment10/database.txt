@@ -1,4 +1,0 @@
-movie,Shawshank Redemption,Frank Darabont,9.2,"https://www.youtube.com/watch?v=4slwZoGJrzc",144,Tim Robbins.Morgan Freeman.Bob Gunton,Drama
-documentary,Planet Earth,Chadden Hunter,9.5,"https://www.imdb.com/title/tt5491994/",298,David Attenborough,David Attenborough
-series,Arcane,Pascal Charrue,9.1,"https://www.youtube.com/watch?v=wIM1erbld5Q&list=PLvahqwMqN4M3D8n5iiNG24c-XoozUKwSS",41,Hailee Steinfeld.Jason Spisak.Ella Purnell,Action Adventure,9,1
-clip,C'mon C'mon,Mike Mills, ,"https://www.youtube.com/watch?v=7mzushAOM88",1.5,Joaquin Phoenix.Gaby Hoffmann.Woody Norman,A24
